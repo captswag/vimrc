@@ -38,6 +38,9 @@ set autoindent
 set shiftwidth=4
 set encoding=utf-8
 set clipboard=unnamedplus
+set colorcolumn=120
+set splitbelow		" open new vertical split panes to the bottom
+set splitright		" open new horizontal split panes to the right
 
 " Remove usages of down, up, left and right arrows
 map <Down> <NOP>
